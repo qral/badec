@@ -1,5 +1,5 @@
 # badec
-Badminton counter running on everything with [Flash Lite](https://en.wikipedia.org/wiki/Adobe_Flash_Lite)
+Badminton score counter running on everything with [Flash Lite](https://en.wikipedia.org/wiki/Adobe_Flash_Lite)
 
 ## Showcase
 Click to watch.
